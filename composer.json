@@ -1,7 +1,7 @@
 {
   "name": "hatimeria/magento2-replace-unused",
   "description": "Replace unused packages from Magento",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "require": {
     "magento/product-community-edition": ">=2.4.0 <2.4.4"
   },
@@ -71,7 +71,6 @@
     "magento/module-review-analytics": "*",
     "magento/module-sales-analytics": "*",
     "magento/module-sample-data": "*",
-    "magento/module-send-friend": "*",
     "magento/module-send-friend-graph-ql": "*",
     "magento/module-tax-import-export": "*",
     "magento/module-ups": "*",
