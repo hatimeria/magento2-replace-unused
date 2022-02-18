@@ -1,11 +1,17 @@
 {
   "name": "hatimeria/magento2-replace-unused",
   "description": "Replace unused packages from Magento",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "require": {
     "magento/product-community-edition": ">=2.4.0 <2.4.4"
   },
   "replace": {
+    "magento/language-zh_hans_cn": "*",
+    "magento/language-pt_br": "*",
+    "magento/language-nl_nl": "*",
+    "magento/language-fr_fr": "*",
+    "magento/language-es_es": "*",
+    "magento/language-de_de": "*",
     "paypal/module-braintree": "*",
     "paypal/module-braintree-core": "*",
     "paypal/module-braintree-graph-ql": "*",
