@@ -83,7 +83,6 @@
     "magento/module-usps": "*",
     "magento/module-wishlist-analytics": "*",
     "magento/module-aws-s3-page-builder": "*",
-    "magento/module-weee": "*",
     "magento/module-weee-graph-ql": "*",
     "magento/module-worldpay": "*"
   }
