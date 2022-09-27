@@ -6,6 +6,7 @@
     "magento/product-community-edition": ">=2.4.0"
   },
   "replace": {
+    "magento/theme-frontend-luma": "*",
     "magento/language-zh_hans_cn": "*",
     "magento/language-pt_br": "*",
     "magento/language-nl_nl": "*",
@@ -52,6 +53,7 @@
     "dotmailer/dotmailer-magento2-extension-sms": "*",
     "astock/stock-api-libphp": "*",
     "magento/adobe-stock-integration": "*",
+    "magento/module-admin-adobe-ims": "*",
     "magento/module-adobe-ims": "*",
     "magento/module-adobe-ims-api": "*",
     "magento/module-adobe-stock-admin-ui": "*",
@@ -93,6 +95,8 @@
     "magento/module-aws-s3-page-builder": "*",
     "magento/module-weee": "*",
     "magento/module-weee-graph-ql": "*",
+    "magento/module-compare-list-graph-ql": "*",
+    "magento/module-elasticsearch-6": "*",
     "magento/module-worldpay": "*"
   }
 }
