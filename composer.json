@@ -13,6 +13,7 @@
     "magento/language-fr_fr": "*",
     "magento/language-es_es": "*",
     "magento/language-de_de": "*",
+    "magento/module-two-factor-auth": "*",
     "paypal/module-braintree": "*",
     "paypal/module-braintree-core": "*",
     "paypal/module-braintree-graph-ql": "*",
