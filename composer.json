@@ -109,7 +109,6 @@
     "magento/module-login-as-customer-page-cache": "*",
     "magento/module-login-as-customer-quote": "*",
     "magento/module-login-as-customer-sales": "*",
-    "magento/module-catalog-customer-graph-ql": "*",
     "magento/module-customer-downloadable-graph-ql": "*",
     "magento/module-customer-import-export": "*",
     "magento/module-re-captcha-customer": "*"
