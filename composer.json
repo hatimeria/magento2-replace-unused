@@ -113,6 +113,17 @@
     "magento/module-login-as-customer-sales": "*",
     "magento/module-customer-downloadable-graph-ql": "*",
     "magento/module-customer-import-export": "*",
-    "magento/module-re-captcha-customer": "*"
+    "magento/module-re-captcha-customer": "*",
+    "magento/module-payment-services-saas-export": "*",
+    "magento/module-payment-services-paypal-graph-ql": "*",
+    "magento/module-payment-services-paypal": "*",
+    "magento/module-payment-services-base": "*",
+    "magento/module-payment-services-dashboard": "*",
+    "magento/module-saas-common": "*",
+    "magento/module-services-id-graph-ql-server": "*",
+    "magento/module-services-id-layout": "*",
+    "magento/module-services-id": "*",
+    "magento/services-connector": "*",
+    "magento/module-service-proxy": "*"
   }
 }
