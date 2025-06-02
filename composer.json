@@ -3,7 +3,7 @@
   "description": "Replace unused packages from Magento",
   "version": "1.0.6",
   "require": {
-    "magento/product-community-edition": ">=2.4.0"
+    "magento/product-community-edition": ">=2.4.8"
   },
   "replace": {
     "magento/theme-frontend-luma": "*",
@@ -123,6 +123,9 @@
     "magento/module-services-id-layout": "*",
     "magento/module-services-id": "*",
     "magento/services-connector": "*",
-    "magento/module-service-proxy": "*"
+    "magento/module-service-proxy": "*",
+    "mollie/mollie-api-php": "*",
+    "mollie/magento2-hyva-compatibility": "*",
+    "mollie/magento2": "*"
   }
 }
